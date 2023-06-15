@@ -1,0 +1,6 @@
+.env
+package-lock.json
+recorded_audio.wav
+output.mp3
+key.json
+leopard/leopard_model.pv
